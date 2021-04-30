@@ -1,5 +1,5 @@
-num_1 = "3"
+num_1 = 234
 
 
 
-print(3)
+print(num_1)
